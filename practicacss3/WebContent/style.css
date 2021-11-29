@@ -1,1 +1,28 @@
 @charset "UTF-8";
+* {
+	margin-left: 0;
+	margin-right: 0;
+}
+h1.h1 {
+	background-color: blue;
+	color: yellow;
+	text-align: center;
+	font-size: 200%;
+	width: 70vw;
+}
+p.p1 {
+	background-color: cadetblue;
+	color: white;
+	box-sizing: content-box;
+	display: inline-block;
+	position: static;
+	width: 30vw;
+} 
+p.p2 {
+	background-color: black;
+	color: yellow;
+	box-sizing: content-box;
+	display: inline-block;
+	position: absolute;
+	width: 70vw;
+}
